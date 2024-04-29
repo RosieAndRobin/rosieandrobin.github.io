@@ -1,5 +1,5 @@
 
-#  ${\color{green}You're}$ ${\color{purple}invited}$ ${\color{green}to}$ ${\color{magenta}Robin}$ ${\color{yellowgreen}and}$ ${\color{purple}Rosie's}$ ${\color{blue}second}$ ${\color{magenta}birthday}$ ${\color{darkorange}party}$ ${\color{yellowgreen}!!!!}$
+#  You're invited to Robin and Rosie's second birthday party!!!
 
 Hi, we can't wait to ✨play✨ in the park and share some games and snacks!
  

@@ -10,6 +10,8 @@ Hi, we can't wait to ✨play✨ in the park and share some games and snacks!
   - **Location:** Prospect Park Concert Grove Pavilion
     - searchable in [google maps](https://maps.app.goo.gl/9zDRJPsYukrmJWTi6)
     - parks dept [link](https://www.prospectpark.org/visit-the-park/park-map/points-interest/points-interest-concert-grove-pavilion/)
+    - Restrooms at [LeFrak Center at Lakeside](https://g.co/kgs/5QZLU8d)
+  - **Random:** Cool of at the splash pad if your clothes and shoes can get wet
 - 👀 **Weather-related updates:**
   - Rain or shine we have a big pavilion reserved to play under!
 

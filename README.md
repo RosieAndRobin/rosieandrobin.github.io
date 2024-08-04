@@ -2,6 +2,8 @@
 #  You're invited to Robin and Rosie's second birthday party!!!
 
 Hi, we can't wait to ✨play✨ in the park and share some games and snacks!
+
+![image](bday.png)
  
 - 🔥 **Latest in party news:**
   - **Contact:** 646-912-4484 to let us know about any food alergies or get help with directions.

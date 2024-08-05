@@ -24,3 +24,4 @@ Hi, we can't wait to ✨play✨ in the park and share some games and snacks!
 - 👀 **Weather-related updates:**
   - Rain or shine we have a big pavilion reserved to play under!
 
+![Sea lion friends](zoo1.jpeg "Sea lion friends") ![Sheep friends](zoo2.jpeg "sheep friends")
